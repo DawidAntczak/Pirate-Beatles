@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2424f229584465843b8d14486673051b
+timeCreated: 1502402720
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PiratesBonney
+  fontNames:
+  - PiratesBonney
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

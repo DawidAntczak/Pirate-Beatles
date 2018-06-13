@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0baa9bb772f9a534d9fb823a1942c7c0
+timeCreated: 1502402720
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PiratesDrake
+  fontNames:
+  - PiratesDrake
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
